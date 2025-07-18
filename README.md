@@ -9,9 +9,18 @@ Reset the timer to start over.
 Visual timer display with a clean, modern UI.
 Audio alert when the countdown finishes.
 Cross-platform support (Windows, macOS, Linux).
+Preview
+
+Main Timer Window
+
+[Main Timer Window](assets/main_window.png)
+
+Countdown Dialog with Pause/Reset
+
+[Countdown Dialog](assets/countdown_dialog.png)
 
 Prerequisites
-To run this application, ensure you have the following installed:
+To run this application ensure you have the following installed:
 
 Python 3.8 or higher
 PyQt5 (pip install PyQt5)
